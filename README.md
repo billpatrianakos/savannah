@@ -4,7 +4,7 @@ __Warning:__ I made this as a project to learn Rack. This may be abandoned or br
 
 Savannah is an itty bitty Rack compatible Ruby web framework.
 
-<img src="https://s3.amazonaws.com/billpatrianakos/blog_posts/savannah.jpg" width="250" alt="The Real Savannah" />
+<img src="https://s3.amazonaws.com/billpatrianakos/blog_posts/savannah.jpg" width="300" alt="The Real Savannah" />
 
 ## Installation
 
