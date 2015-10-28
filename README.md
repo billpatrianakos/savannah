@@ -1,6 +1,10 @@
 # Savannah
 
-TODO: Write a gem description
+__Warning:__ I made this as a project to learn Rack. This may be abandoned or broken for as long as this message is here.
+
+Savannah is an itty bitty Rack compatible Ruby web framework.
+
+<img src="https://s3.amazonaws.com/billpatrianakos/blog_posts/savannah.jpg" width="250" alt="The Real Savannah" />
 
 ## Installation
 
